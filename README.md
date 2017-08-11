@@ -1,2 +1,2 @@
 # salesforcecli
-FT Commercial Metadata used for the continuous integration pilot
+FT Commercial Metadata used for the continuous integration pilot.
